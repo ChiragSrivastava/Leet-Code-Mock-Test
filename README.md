@@ -1,4 +1,4 @@
-# Leet-Code-Mock Test
+# Leet-Code Mock Test
 
 
 This repository contains a collection of random assessment problem sets designed to test and improve skills across various domains. The tasks span multiple topics, levels of difficulty, and formats to encourage a holistic learning experience.
