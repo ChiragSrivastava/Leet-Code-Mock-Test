@@ -6,11 +6,8 @@
 ## Features:
     
     -> Diverse Topics: Includes questions from programming, logical reasoning, data structures, algorithms, and more.
-    
     -> Skill Development: Aimed at strengthening problem-solving, analytical thinking, and technical expertise.
-    
     -> Structured Format: Each assessment is well-organized with clear instructions and solutions where applicable.
-    
     -> For Practice: Perfect for interview preparation, coding competitions, or self-assessment.
 
 
